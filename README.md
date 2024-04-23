@@ -12,6 +12,8 @@ The project workflow consists of the following steps:
 
 3. **Model Development**: A Long Short-Term Memory (LSTM) model is developed to predict future stock prices based on historical data.
 
+4. **GUI**: Currently attempting to create a GUI for the user input of stock information using tkinter.
+
 ## Dependencies
 
 To run the Python notebook, you will need the following libraries:
